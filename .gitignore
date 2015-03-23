@@ -1,0 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
+www/app/coverage
+www/vendors
+node_modules
