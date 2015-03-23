@@ -1,0 +1,26 @@
+{
+  "name": "grubsta-es6",
+  "version": "0.2.2",
+  "authors": [
+    "cognitronic <danny@ravenartmedia.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "1.4.0-beta.6",
+    "bardjs": "~0.1.0",
+    "sinon": "~1.14.1"
+  },
+  "dependencies": {
+    "angular": "1.4.0-beta.6",
+    "angular-ui-router": "~0.2.13",
+    "font-awesome": "~4.3.0"
+  }
+}
